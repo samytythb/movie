@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.876cba8c.css",
-    "main.js": "/static/js/main.30ae10d3.js",
-    "index.html": "/index.html",
-    "main.876cba8c.css.map": "/static/css/main.876cba8c.css.map",
-    "main.30ae10d3.js.map": "/static/js/main.30ae10d3.js.map"
+    "main.css": "/samytythb/movie/static/css/main.876cba8c.css",
+    "main.js": "/samytythb/movie/static/js/main.30ae10d3.js",
+    "index.html": "/samytythb/movie/index.html",
+    "main.876cba8c.css.map": "/samytythb/movie/static/css/main.876cba8c.css.map",
+    "main.30ae10d3.js.map": "/samytythb/movie/static/js/main.30ae10d3.js.map"
   },
   "entrypoints": [
     "static/css/main.876cba8c.css",
